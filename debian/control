@@ -1,0 +1,17 @@
+Source: python-rpi-ws281x
+Maintainer: Team Kano <dev@kano.me>
+Section: libs
+Priority: optional
+Standards-Version: 3.9.4
+Build-Depends:
+    debhelper (>=9.0.0),
+    python-pip,
+    build-essential
+
+Package: python-rpi-ws281x
+Architecture: all
+Depends:
+    ${misc:Depends},
+    python
+Description: Userspace Raspberry Pi PWM library for WS281X LEDs
+ Debian packaging of the Python Pip package rpi_ws281x (https://pypi.python.org/pypi/rpi_ws281x/2.0.5) created by Jeremy Garff (https://github.com/jgarff/rpi_ws281x).

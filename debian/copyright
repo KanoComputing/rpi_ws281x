@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: python-rpi-ws281x
+Upstream-Contact: Kano developers <dev@kano.me>
+Source: https://github.com/KanoComputing/rpi_ws281x
+
+Files: *
+Copyright: 2014-2017, Jeremy Garff
+License: BSD-2-Clause
