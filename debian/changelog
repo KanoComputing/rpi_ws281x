@@ -2,4 +2,4 @@ python-rpi-ws281x (2.0.5-0) unstable; urgency=low
 
   * Packaging of the rpi_ws281x v2.0.5 Python Pip package
 
- -- Team Kano <dev@kano.me>  Thu, 27 Mar 2017 14:32:00 +0000
+ -- Team Kano <dev@kano.me>  Mon, 27 Mar 2017 14:32:00 +0000
